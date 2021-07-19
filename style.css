@@ -1,20 +1,8 @@
-/*
-#FEFFDE
-#DDFFBC
-#91C788
-
-
-
-*/
-
 body {
     background: #91C788;
 }
 
 .control-bar {
-    /* display: flex;
-    flex-direction: row;
-    justify-content: center; */
     display: grid;
     grid-template-rows: auto auto auto;
     grid-gap: 20px;
